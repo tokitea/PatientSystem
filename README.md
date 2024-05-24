@@ -1,2 +1,2 @@
-# HospitalSystem
+# PatientSystem
 SOFTWARE MODELING AND DESIGN PROJECT
